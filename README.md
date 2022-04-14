@@ -1,5 +1,7 @@
-# Hey there~ <img src="https://media.giphy.com/media/gDipFXZvaUTbn3HfuC/giphy.gif" width=100px>
-My name is Joel Jeremy Marquez. A full-stack developer from the Philippines.
+<p align="center">
+  <img src="https://media.giphy.com/media/gDipFXZvaUTbn3HfuC/giphy.gif" width=200px />
+  <img src="https://github.com/joel-jeremy/joel-jeremy/blob/main/name.gif" />
+</p>
 
 ## 👨‍💻 A little something about me
 - 🌱 I am passionate fellow who loves learning and technology.
