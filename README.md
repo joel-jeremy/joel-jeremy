@@ -1,16 +1,16 @@
-# Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-My name is Joel Jeremy Marquez. I am from the Philippines. 
+# Hey there~ <img src="https://media.giphy.com/media/gDipFXZvaUTbn3HfuC/giphy.gif" width=100px>
+My name is Joel Jeremy Marquez. A full-stack developer from the Philippines.
 
 ## 👨‍💻 A little something about me
 - 🌱 I am passionate fellow who loves learning and technology.
 - 🛠️ I love building and architecting software along with the challenges that comes with it.
 - 🎚️ I specialize in building maintainable, high performance, and distributed/scalable web applications.
 - 📚 I love building libraries that aim to help developers build clean, performant, and maintainable applications.
-- ⚙️ Innovation is constant.
+- ⚙️ Constantly innovating.
 
 # 📬 Connect with me
 <p align="center">
-  <a href="https://github.com/jeyjeyemem"><img src="https://img.shields.io/badge/-jeyjeyemem-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/joel-jeremy"><img src="https://img.shields.io/badge/-joel--jeremy-333?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ph.linkedin.com/in/joeljeremy"><img src="https://img.shields.io/badge/-Joel%20Jeremy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:joeljeremy.marquez@gmail.com"><img src="https://img.shields.io/badge/-joeljeremy.marquez@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://facebook.com/joeljeremy.marquez"><img src="https://img.shields.io/badge/-Joel%20Jeremy-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -38,12 +38,12 @@ My name is Joel Jeremy Marquez. I am from the Philippines.
 ![](https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2BBC8A)
 ![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2BBC8A)
 ![](https://img.shields.io/badge/Scripting-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=EE043A)
-![](https://img.shields.io/badge/Scripting-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=EE043A)
+![](https://img.shields.io/badge/Scripting-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=EE043A)
 
 # 📈 GitHub Stats
 
-<a href="https://github.com/jeyjeyemem/jeyjeyemem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeyjeyemem&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joel's GitHub Stats" />
+<a href="https://github.com/joel-jeremy/joel-jeremy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joel-jeremy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
 </a> 
 
 # ✨ Open Source Projects
@@ -66,8 +66,8 @@ My name is Joel Jeremy Marquez. I am from the Philippines.
 <a href="https://github.com/XerProjects/Xer.EventSourcing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XerProjects&repo=Xer.EventSourcing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
-<a href="https://github.com/jeyjeyemem/externalized-properties">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeyjeyemem&repo=externalized-properties&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/joel-jeremy/externalized-properties">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joel-jeremy&repo=externalized-properties&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 <a href="https://github.com/XerProjects/xerj.commandstack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XerProjects&repo=xerj.commandstack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -77,7 +77,7 @@ My name is Joel Jeremy Marquez. I am from the Philippines.
 </a> 
 
 <!--
-**jeyjeyemem/jeyjeyemem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joel-jeremy/joel-jeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
