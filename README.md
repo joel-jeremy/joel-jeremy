@@ -1,14 +1,14 @@
-## Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+# Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 My name is Joel Jeremy Marquez. I am from the Philippines. 
 
-### 👨‍💻 A little something about me
+## 👨‍💻 A little something about me
 - 🌱 I am passionate fellow who loves learning and technology.
 - 🛠️ I love building and architecting software along with the challenges that comes with it.
 - 🎚️ I specialize in building maintainable, high performance, and distributed/scalable web applications.
 - 📚 I love building libraries that aim to help developers build clean, performant, and maintainable applications.
 - ⚙️ Innovation is constant.
 
-## 📬 Connect with me
+# 📬 Connect with me
 <p align="center">
   <a href="https://github.com/jeyjeyemem"><img src="https://img.shields.io/badge/-jeyjeyemem-333?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ph.linkedin.com/in/joeljeremy"><img src="https://img.shields.io/badge/-Joel%20Jeremy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -16,7 +16,7 @@ My name is Joel Jeremy Marquez. I am from the Philippines.
   <a href="https://facebook.com/joeljeremy.marquez"><img src="https://img.shields.io/badge/-Joel%20Jeremy-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Technologies & Tools
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=7141D9)
 ![](https://img.shields.io/badge/Code-C%23%20%28.NET%20Core%2FFramework%29-informational?style=flat&logo=dotnet&logoColor=white&color=7141D9)
 ![](https://img.shields.io/badge/Code-JavaScript%2FTypeScript-informational?style=flat&logo=javascript&logoColor=white&color=7141D9)
@@ -40,13 +40,13 @@ My name is Joel Jeremy Marquez. I am from the Philippines.
 ![](https://img.shields.io/badge/Scripting-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=EE043A)
 ![](https://img.shields.io/badge/Scripting-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=EE043A)
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <a href="https://github.com/jeyjeyemem/jeyjeyemem">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeyjeyemem&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Joel's GitHub Stats" />
 </a> 
 
-## ✨ Open Source Projects
+# ✨ Open Source Projects
 
 <a href="https://github.com/XerProjects/Xer.Cqrs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XerProjects&repo=Xer.Cqrs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
