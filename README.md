@@ -16,7 +16,7 @@
   <a href="https://github.com/joel-jeremy"><img src="https://img.shields.io/badge/-joel--jeremy-333?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ph.linkedin.com/in/joeljeremy"><img src="https://img.shields.io/badge/-Joel%20Jeremy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:joeljeremy.marquez@gmail.com"><img src="https://img.shields.io/badge/-joeljeremy.marquez@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://facebook.com/joeljeremy.marquez"><img src="https://img.shields.io/badge/-Joel%20Jeremy-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://facebook.com/iamjoeljeremy"><img src="https://img.shields.io/badge/-Joel%20Jeremy-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Technologies & Tools
