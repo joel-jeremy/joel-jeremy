@@ -13,7 +13,7 @@
 
 # 📬 Connect with me
 <p align="center">
-  <a href="https://github.com/joel-jeremy"><img src="https://img.shields.io/badge/-joel--jeremy-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/joeljeremy7"><img src="https://img.shields.io/badge/-joeljeremy7-333?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ph.linkedin.com/in/joeljeremy"><img src="https://img.shields.io/badge/-Joel%20Jeremy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:joeljeremy.marquez@gmail.com"><img src="https://img.shields.io/badge/-joeljeremy.marquez@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://facebook.com/iamjoeljeremy"><img src="https://img.shields.io/badge/-Joel%20Jeremy-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -45,7 +45,7 @@
 
 # 📈 GitHub Stats
 
-<a href="https://github.com/joel-jeremy/joel-jeremy">
+<a href="https://github.com/joeljeremy7/joeljeremy7">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joel-jeremy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
 </a> 
 
@@ -69,8 +69,8 @@
 <a href="https://github.com/XerProjects/Xer.EventSourcing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XerProjects&repo=Xer.EventSourcing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
-<a href="https://github.com/joel-jeremy/externalized-properties">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joel-jeremy&repo=externalized-properties&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/joeljeremy7/externalized-properties">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljeremy7&repo=externalized-properties&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 <a href="https://github.com/XerProjects/xerj.commandstack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XerProjects&repo=xerj.commandstack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -80,7 +80,7 @@
 </a> 
 
 <!--
-**joel-jeremy/joel-jeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joeljeremy7/joeljeremy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
