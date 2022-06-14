@@ -19,7 +19,7 @@
   <a href="https://facebook.com/iamjoeljeremy"><img src="https://img.shields.io/badge/-Joel%20Jeremy-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> Technologies & Tools
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=8px> Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=7141D9)
 ![](https://img.shields.io/badge/Code-C%23%20%28.NET%20Core%2FFramework%29-informational?style=flat&logo=dotnet&logoColor=white&color=7141D9)
 ![](https://img.shields.io/badge/Code-JavaScript%2FTypeScript-informational?style=flat&logo=javascript&logoColor=white&color=7141D9)
