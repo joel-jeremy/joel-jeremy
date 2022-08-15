@@ -6,7 +6,7 @@
 
 ## 👨‍💻 A little something about me
 - 🌱 I am passionate fellow who loves learning and technology.
-- 🛠️ I love building and architecting software along with the challenges that comes with it.
+- 🛠️ I love building and architecting software.
 - 🎚️ I specialize in building maintainable, high performance, and distributed/scalable web applications.
 - 📚 I love building libraries that aim to help developers build clean, performant, and maintainable applications.
 - ⚙️ Constantly innovating.
