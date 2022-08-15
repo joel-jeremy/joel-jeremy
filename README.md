@@ -6,9 +6,9 @@
 
 ## 👨‍💻 A little something about me
 - 🌱 A fellow who loves learning and technology.
-- 🛠️ I loves building and architecting software.
+- 🛠️ I love building and architecting software.
 - 🎚️ I specialize in building maintainable, high performance, and distributed/scalable web applications.
-- 📚 Open-source supporter who builds libraries that aim to help developers build clean, performant, and maintainable applications.
+- 📚 Open-source developer who builds libraries that aim to help developers build clean, performant, and maintainable applications.
 - ⚙️ Constantly innovating.
 
 # 📬 Connect with me
