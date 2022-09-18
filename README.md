@@ -1,14 +1,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/gDipFXZvaUTbn3HfuC/giphy.gif" width=200px />
   <img src="https://github.com/joel-jeremy/joel-jeremy/blob/main/name.gif" />
-  <i>I'm a full-stack developer based in the Philippines</i>
+  <i>I'm a software developer based in the Philippines</i>
 </p>
 
 ## 👨‍💻 A little something about me
 - 🌱 A fellow who loves learning and technology.
-- 🛠️ I love building and architecting software.
-- 🎚️ I specialize in building maintainable, high performance, and distributed/scalable web applications.
-- 📚 Open-source developer who builds libraries that aim to help developers build clean, performant, and maintainable applications.
+- 🎚️ I specialize in building and architecting maintainable, high performance, and distributed/scalable web applications.
+- 📚 Open source supporter who builds libraries that aim to help developers build clean, performant, and maintainable applications.
 - ⚙️ Constantly innovating.
 
 # 📬 Connect with me
@@ -74,14 +73,11 @@
 
 ## Java
 
+<a href="https://github.com/joeljeremy7/deezpatch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljeremy7&repo=deezpatch&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
 <a href="https://github.com/joeljeremy7/externalized-properties">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljeremy7&repo=externalized-properties&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-<a href="https://github.com/XerProjects/xerj.commandstack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XerProjects&repo=xerj.commandstack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-<a href="https://github.com/XerProjects/xerj.eventstack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XerProjects&repo=xerj.eventstack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 <!--
