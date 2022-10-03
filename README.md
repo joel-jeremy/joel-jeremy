@@ -32,12 +32,12 @@
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=FFD804)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=apachemaven&logoColor=white&color=FFD804)
 
-![](https://img.shields.io/badge/Deployments-Maven%20Central-informational?style=flat&logo=apache-maven&logoColor=white&color=FFA50F)
-![](https://img.shields.io/badge/Deployments-GitHub%20Actions-informational?style=flat&logo=githubactions&logoColor=white&color=FFA50F)
-![](https://img.shields.io/badge/Deployments-GitLab%20CI%2FCD-informational?style=flat&logo=gitlab&logoColor=white&color=FFA50F)
-![](https://img.shields.io/badge/Deployments-AppVeyor-informational?style=flat&logo=appveyor&logoColor=white&color=FFA50F)
-![](https://img.shields.io/badge/Deployments-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=FFA50F)
-![](https://img.shields.io/badge/Deployments-Nuget-informational?style=flat&logo=nuget&logoColor=white&color=FFA50F)
+![](https://img.shields.io/badge/Deployments-Maven%20Central-informational?style=flat&logo=apache-maven&logoColor=white&color=FFAF0F)
+![](https://img.shields.io/badge/Deployments-GitHub%20Actions-informational?style=flat&logo=githubactions&logoColor=white&color=FFAF0F)
+![](https://img.shields.io/badge/Deployments-GitLab%20CI%2FCD-informational?style=flat&logo=gitlab&logoColor=white&color=FFAF0F)
+![](https://img.shields.io/badge/Deployments-AppVeyor-informational?style=flat&logo=appveyor&logoColor=white&color=FFAF0F)
+![](https://img.shields.io/badge/Deployments-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=FFAF0F)
+![](https://img.shields.io/badge/Deployments-Nuget-informational?style=flat&logo=nuget&logoColor=white&color=FFAF0F)
   
 ![](https://img.shields.io/badge/Work%20Management-Jira-informational?style=flat&logo=jira&logoColor=white&color=0AA804)
   
