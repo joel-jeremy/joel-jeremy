@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/gDipFXZvaUTbn3HfuC/giphy.gif" width=200px />
   <img src="https://github.com/joel-jeremy/joel-jeremy/blob/main/name.gif" />
-  <i>I'm a software developer based in the Philippines</i>
+  <i>I'm a software developer based in Canada</i>
 </p>
 
 ## 👨‍💻 A little something about me
