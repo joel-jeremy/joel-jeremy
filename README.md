@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript%2FTypeScript-informational?style=flat&logo=javascript&logoColor=white&color=7141D9)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=7141D9)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=7141D9)
+![](https://img.shields.io/badge/Code-ASP.NET%20Core-informational?style=flat&logo=.net&logoColor=white&color=7141D9)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=7141D9)
   
 ![](https://img.shields.io/badge/Tools-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=FFD804)
