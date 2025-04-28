@@ -33,22 +33,24 @@
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=FFD804)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=apachemaven&logoColor=white&color=FFD804)
 
+![](https://img.shields.io/badge/Deployments-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=FFAF0F)
 ![](https://img.shields.io/badge/Deployments-Maven%20Central-informational?style=flat&logo=apache-maven&logoColor=white&color=FFAF0F)
 ![](https://img.shields.io/badge/Deployments-GitHub%20Actions-informational?style=flat&logo=githubactions&logoColor=white&color=FFAF0F)
 ![](https://img.shields.io/badge/Deployments-GitLab%20CI%2FCD-informational?style=flat&logo=gitlab&logoColor=white&color=FFAF0F)
-![](https://img.shields.io/badge/Deployments-AppVeyor-informational?style=flat&logo=appveyor&logoColor=white&color=FFAF0F)
-![](https://img.shields.io/badge/Deployments-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=FFAF0F)
 ![](https://img.shields.io/badge/Deployments-Nuget-informational?style=flat&logo=nuget&logoColor=white&color=FFAF0F)
+![](https://img.shields.io/badge/Deployments-Artifactory-informational?style=flat&logo=jfrog&logoColor=white&color=FFAF0F)
   
 ![](https://img.shields.io/badge/Work%20Management-Jira-informational?style=flat&logo=jira&logoColor=white&color=0AA804)
   
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=0099DD)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=0099DD)
 ![](https://img.shields.io/badge/Cloud-OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=0099DD)
 ![](https://img.shields.io/badge/Cloud-IBM%20Cloud-informational?style=flat&logo=ibmcloud&logoColor=white&color=0099DD)
   
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2BBC8A)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2BBC8A)
 ![](https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2BBC8A)
+![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2BBC8A)
 ![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2BBC8A)
   
 ![](https://img.shields.io/badge/Scripting-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=EE043A)
